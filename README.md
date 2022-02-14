@@ -1,1 +1,1 @@
-# Madlibs
+# simple Madlibs programmed for fun!
